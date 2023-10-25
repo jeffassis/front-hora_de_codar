@@ -1,0 +1,29 @@
+{
+  "project": [
+    {
+      "name": "Agora vai",
+      "budget": "2222222",
+      "category": {
+        "id": "3",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "redes"
+    },
+    {
+      "id": 3,
+      "name": "desenvolvimento"
+    }
+  ]
+}
