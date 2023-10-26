@@ -1,17 +1,5 @@
 {
-  "project": [
-    {
-      "name": "Agora vai",
-      "budget": "2222222",
-      "category": {
-        "id": "3",
-        "name": "desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
@@ -24,6 +12,10 @@
     {
       "id": 3,
       "name": "desenvolvimento"
-    }
+    },
+    {
+        "id": 4,
+        "name": "desing"
+      }
   ]
 }
