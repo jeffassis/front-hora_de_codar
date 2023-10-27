@@ -1,5 +1,74 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "Janeiro",
+      "budget": "1500",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 550,
+      "services": [
+        {
+          "name": "Comprar cabos Rj45",
+          "cost": "450",
+          "description": "Material",
+          "id": "a7af3e5d-eba1-4ec1-b308-0a1fc37239fd"
+        },
+        {
+          "name": "Conectores Rj45",
+          "cost": "100",
+          "description": "Material",
+          "id": "b69f139f-1f9a-45bd-ab6d-d5f0138460d9"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Fevereiro",
+      "budget": "2300",
+      "category": {
+        "id": "2",
+        "name": "redes"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Março",
+      "budget": "3000",
+      "category": {
+        "id": "3",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Abril",
+      "budget": "3000",
+      "category": {
+        "id": "3",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": " Projeto Java",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
   "categories": [
     {
       "id": 1,
@@ -14,8 +83,8 @@
       "name": "desenvolvimento"
     },
     {
-        "id": 4,
-        "name": "desing"
-      }
+      "id": 4,
+      "name": "desing"
+    }
   ]
 }
